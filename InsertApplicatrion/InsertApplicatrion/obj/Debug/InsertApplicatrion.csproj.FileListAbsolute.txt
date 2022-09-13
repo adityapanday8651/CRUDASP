@@ -1,0 +1,4 @@
+c:\users\rrgs\documents\visual studio 2010\Projects\InsertApplicatrion\InsertApplicatrion\bin\InsertApplicatrion.dll
+c:\users\rrgs\documents\visual studio 2010\Projects\InsertApplicatrion\InsertApplicatrion\bin\InsertApplicatrion.pdb
+c:\users\rrgs\documents\visual studio 2010\Projects\InsertApplicatrion\InsertApplicatrion\obj\Debug\InsertApplicatrion.dll
+c:\users\rrgs\documents\visual studio 2010\Projects\InsertApplicatrion\InsertApplicatrion\obj\Debug\InsertApplicatrion.pdb
